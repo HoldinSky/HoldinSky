@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Software engineer must have some hobbies. Some of them are disclosed here.
+- Software engineer must have some hobbies. Some of mine are disclosed here.
 - Always looking for exciting ideas to experiment with to widen stack of knowledge.
 - Never stop on creating.
