@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- This is the begining of my path to becoming a software developer using Java. 
-- At particular moment I'm pretty confident with Core Java theory and SQL, so I'm diving into learning React and JS to build my own web-app.
-- Developing some interesting service that may help you to improve your workflow.
-
-- Open to new ideas and ready to work in a tech company :)
+- Software engineer must have some hobbies. Some of them are disclosed here.
+- Always looking for exciting ideas to experiment with to widen stack of knowledge.
+- Never stop on creating.
