@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Software engineer must have some hobbies. Some of mine are disclosed here.
 
-- Software engineer must have some hobbies. Some of mine are disclosed here.
-- Always looking for exciting ideas to experiment with to widen stack of knowledge.
-- Never stop on creating.
+- I am wlways looking for exciting ideas to experiment with to widen the stack of my knowledge.
+- Never stop creating
+- It's fascinating though to take things down -> hacking is what I'm further developing my skills in. 
